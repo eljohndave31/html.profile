@@ -1,0 +1,47 @@
+/* General Styling */
+body {
+    background-color: rgb(152, 142, 162);
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+}
+
+/* Header Styling */
+header {
+    margin-bottom: 20px;
+}
+
+.profile-img {
+    width: 220px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.name-title {
+    background-color: rgb(192, 59, 59);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Personal Details Section */
+.personal-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.personal-details h2 {
+    margin-bottom: 10px;
+    color: rgb(192, 59, 59);
+}
+
+.personal-details table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.personal-details .label {
+    font-weight: bold;
+    padding: 10px
